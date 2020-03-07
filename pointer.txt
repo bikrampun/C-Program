@@ -10,7 +10,12 @@ Software Engineer
 int i;
 void input(int *p);
 void display(int *p);
-
+void main()
+{
+int a[2],*p;
+p=a;
+input(p);
+display(p);
 
 
 
