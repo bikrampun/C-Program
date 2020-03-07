@@ -1,0 +1,14 @@
+/*
+Bikram Pun
+Software Engineer
+*/
+
+/*Program to display two number using pointer and function*/
+
+#include<stdio.h>
+#include<conio.h>
+
+
+
+
+
