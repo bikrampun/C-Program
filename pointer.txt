@@ -18,6 +18,12 @@ input(p);
 display(p);
 getch();
 }
+void input(int *p)
+{
+printf("Enter two numbers\n");
+for(i=0;i<2;i++)
+scanf("%d",(p+i));
+}
 
 
 
