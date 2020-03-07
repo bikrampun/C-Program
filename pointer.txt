@@ -24,7 +24,12 @@ printf("Enter two numbers\n");
 for(i=0;i<2;i++)
 scanf("%d",(p+i));
 }
-
+void display(int *p)
+{
+printf("The two numbers are ");
+for(i=0;i<2;i++)
+printf("%d\t",*(p+i));
+}
 
 
 
