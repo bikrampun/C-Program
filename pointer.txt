@@ -28,5 +28,5 @@ void display(int *p)
 {
 printf("The two numbers are ");
 for(i=0;i<2;i++)
-printf("%d\t",*(p+i));
+printf("\t%d",*(p+i));
 }
