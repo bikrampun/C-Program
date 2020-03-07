@@ -16,6 +16,8 @@ int a[2],*p;
 p=a;
 input(p);
 display(p);
+getch();
+}
 
 
 
