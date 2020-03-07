@@ -7,6 +7,10 @@ Software Engineer
 
 #include<stdio.h>
 #include<conio.h>
+int i;
+void input(int *p);
+void display(int *p);
+
 
 
 
