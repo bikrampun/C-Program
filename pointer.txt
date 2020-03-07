@@ -24,8 +24,3 @@ printf("Enter two numbers\n");
 for(i=0;i<2;i++)
 scanf("%d",(p+i));
 }
-
-
-
-
-
